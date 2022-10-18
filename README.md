@@ -1,5 +1,4 @@
-# TodoList
-
+# Calculator
 This is a simple Vanilla JavaScript calculator with full functionality. Highlights include:
 
 - Addition (+), subtraction (-), multiplication (*) & division (/)
@@ -13,6 +12,7 @@ This is a simple Vanilla JavaScript calculator with full functionality. Highligh
 - HTML
 - CSS
 
+## Project view
 ![Screen](https://singular-meerkat-adce50.netlify.app/assets/Calculator.png)
 
 ## Getting Started
